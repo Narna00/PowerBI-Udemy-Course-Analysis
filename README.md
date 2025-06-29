@@ -52,5 +52,5 @@ This dashboard was developed as part of my **Capstone Project at Blossom Academy
 
 ---
 
-## 📸 Screenshot Example (Optional)
+## 📸 Screenshot of Dashboard
 ![Screenshot_Udemy_Dashboard](https://github.com/user-attachments/assets/346043cc-4b07-4044-8ae2-8765e089c497)
